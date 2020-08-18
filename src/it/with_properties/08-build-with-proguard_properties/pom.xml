@@ -14,7 +14,7 @@
     </organization>
 
     <properties>
-        <slf4j.version>1.6.1</slf4j.version>
+        <slf4j.version>1.7.30</slf4j.version>
         <jfx.mainClass>com.zenjava.test.Main</jfx.mainClass>
         <jfx.updateExistingJar>true</jfx.updateExistingJar>
     </properties>
